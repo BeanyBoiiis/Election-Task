@@ -1,2 +1,2 @@
 # Election-Task
-Humanities
+Racism
