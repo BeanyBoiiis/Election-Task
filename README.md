@@ -1,2 +1,2 @@
 # Election-Task
-Racism
+A campaign website (our goal is to end racism).
