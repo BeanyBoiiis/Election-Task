@@ -90,13 +90,15 @@ nav .menu-text a:hover {
   margin-left: 5px;
   margin-right: 5px;
 
-  border-radius: 5px;
+  border-radius: 15px;
+  border-top-left-radius: 130px;
+  border-top-right-radius: 130px;
   border-color: #ffffff;
   border-width: 2px;
   border-style: solid;
   background-color: #ffffffaa;
   width: 240px;
-  height: 480px;
+  height: 435px;
   padding: 0.5rem;
   text-align: left;
 }
@@ -114,6 +116,7 @@ nav .menu-text a:hover {
 .card-text > h3 {
   margin-top: 5px;
   margin-left: 3px;
+  text-align: center;
 }
 
 .card-text > p {
